@@ -1,1 +1,181 @@
-[{ "id": "62dcb568-629a-427e-b90e-9ed673fc788a", "make": "Chevrolet", "model": "Corvette", "year": 2006, "mileage": 24485, "color": "Teal", "price": "$10900.83" }, { "id": "4c2b00e9-350a-421c-a845-6ae569e71e7c", "make": "Mazda", "model": "Familia", "year": 1990, "mileage": 742192, "color": "Fuscia", "price": "$252647.90" }, { "id": "9f2d3a2a-71b7-4fc9-bc2a-f26df7c5d041", "make": "Toyota", "model": "Sienna", "year": 2001, "mileage": 202138, "color": "Red", "price": "$291148.98" }, { "id": "328bfe93-d533-46b4-b626-3d59407c8377", "make": "Ford", "model": "F-Series", "year": 2008, "mileage": 128077, "color": "Puce", "price": "$67130.13" }, { "id": "be6871b3-8f77-42f0-8659-01a6471b2b77", "make": "Ford", "model": "Escort", "year": 1998, "mileage": 647163, "color": "Teal", "price": "$236271.50" }, { "id": "a7d390da-6ab9-410b-992b-df8e36e75032", "make": "Oldsmobile", "model": "Cutlass", "year": 1998, "mileage": 979547, "color": "Violet", "price": "$125858.77" }, { "id": "7924fe7b-23b4-4bad-944c-dcbc6489352c", "make": "Mazda", "model": "MPV", "year": 1998, "mileage": 757529, "color": "Puce", "price": "$122851.58" }, { "id": "50f4a90d-47a8-4c55-a187-57a84e25caa6", "make": "Ford", "model": "Taurus", "year": 1997, "mileage": 842645, "color": "Blue", "price": "$261184.49" }, { "id": "9282ea7e-d0e0-4e57-9309-ce1c321d0e44", "make": "Ford", "model": "GT500", "year": 2007, "mileage": 655434, "color": "Fuscia", "price": "$27715.45" }, { "id": "dbe36494-6dc2-4cd7-b32b-aa4d006668a5", "make": "Chevrolet", "model": "1500", "year": 1995, "mileage": 404438, "color": "Green", "price": "$153865.23" }, { "id": "1ffb39f9-fab7-4f59-a2d1-4555043e1e68", "make": "Nissan", "model": "Pathfinder", "year": 1999, "mileage": 428031, "color": "Orange", "price": "$49299.03" }, { "id": "3033ab41-8c1d-412a-afed-007e13d0ce26", "make": "GMC", "model": "Savana 1500", "year": 1998, "mileage": 913498, "color": "Khaki", "price": "$255489.25" }, { "id": "b2c45838-ffa7-44f8-9c5f-1cc718bb3353", "make": "Subaru", "model": "Legacy", "year": 2007, "mileage": 912007, "color": "Violet", "price": "$36838.66" }, { "id": "1453d94a-8ae6-4a8c-ba11-7d7b5425dab7", "make": "Chevrolet", "model": "Colorado", "year": 2010, "mileage": 795659, "color": "Green", "price": "$194283.14" }, { "id": "320ddb8b-4b35-4960-a1fc-de48e5883ee9", "make": "Saab", "model": "900", "year": 1994, "mileage": 482817, "color": "Violet", "price": "$197021.24" }, { "id": "38a36b31-2500-49be-ab4a-e3b2f639c3fe", "make": "Nissan", "model": "Frontier", "year": 2005, "mileage": 814314, "color": "Purple", "price": "$241251.28" }, { "id": "120eb25c-fdb3-4522-acb3-147d6808a6c7", "make": "Pontiac", "model": "Firebird", "year": 1967, "mileage": 490706, "color": "Purple", "price": "$179733.52" }, { "id": "158e148b-a221-4fbb-aaad-a90e62e47005", "make": "Mazda", "model": "Protege", "year": 1998, "mileage": 527937, "color": "Blue", "price": "$137173.07" }, { "id": "7b925b3d-870d-4a85-96c4-25538845281c", "make": "Bentley", "model": "Azure", "year": 2008, "mileage": 773845, "color": "Mauv", "price": "$64702.63" }, { "id": "64c363c0-53bd-46b6-a033-6f8b1066b906", "make": "Volvo", "model": "S80", "year": 2004, "mileage": 334200, "color": "Turquoise", "price": "$127613.36" }, { "id": "21665282-5b04-455c-acfe-089c0e1c14e3", "make": "Audi", "model": "TT", "year": 2005, "mileage": 373085, "color": "Turquoise", "price": "$16078.42" }, { "id": "7f3b843c-f6ba-455d-9419-686255e36e85", "make": "Ford", "model": "Expedition", "year": 2012, "mileage": 9090, "color": "Red", "price": "$106761.32" }, { "id": "8deeb83d-803c-42fe-92a5-5fa429e16826", "make": "Acura", "model": "Integra", "year": 1994, "mileage": 694511, "color": "Aquamarine", "price": "$243433.22" }, { "id": "fbb8caae-357b-49bf-b986-67a37bc92c74", "make": "Chevrolet", "model": "Tahoe", "year": 2012, "mileage": 918816, "color": "Fuscia", "price": "$45381.37" }, { "id": "b0119201-6ca9-4d43-bb38-29fbd130a700", "make": "Volkswagen", "model": "Passat", "year": 2010, "mileage": 749449, "color": "Purple", "price": "$84926.64" }, { "id": "75c140dd-1cb4-4ad7-904e-a376ca258e83", "make": "Cadillac", "model": "CTS", "year": 2005, "mileage": 650384, "color": "Goldenrod", "price": "$141189.47" }, { "id": "8483aec2-b6ce-4d2d-82b3-554c196de158", "make": "Mazda", "model": "Miata MX-5", "year": 1992, "mileage": 892062, "color": "Indigo", "price": "$33668.90" }, { "id": "71a73946-db09-4f58-aa71-33554b31f73f", "make": "GMC", "model": "Savana 3500", "year": 2003, "mileage": 567862, "color": "Goldenrod", "price": "$248460.61" }, { "id": "a0152e07-9af8-487e-bd06-f617b7e50466", "make": "Dodge", "model": "Viper RT/10", "year": 1993, "mileage": 883915, "color": "Puce", "price": "$77420.22" }, { "id": "b8dc6328-330f-4ed8-836b-c9cac7dcb322", "make": "Pontiac", "model": "Monterey", "year": 2005, "mileage": 168703, "color": "Puce", "price": "$244452.93" }]
+[{
+  "id": "974365bf-8cb0-4476-bbd5-0270a3c9be24",
+  "make": "Mitsubishi",
+  "model": "Endeavor",
+  "year": 2007,
+  "price": "$17520.59"
+}, {
+  "id": "fb4505e6-1e4d-47d4-b5ef-496c94d07ae4",
+  "make": "Lexus",
+  "model": "LS",
+  "year": 1989,
+  "price": "$100833.09"
+}, {
+  "id": "d3631359-838d-4011-a7c3-71e288cc9c2e",
+  "make": "Lincoln",
+  "model": "Mark VII",
+  "year": 1984,
+  "price": "$198055.71"
+}, {
+  "id": "d87e1ec1-8a49-4d60-96da-5767cc350b35",
+  "make": "Buick",
+  "model": "Coachbuilder",
+  "year": 1994,
+  "price": "$287608.75"
+}, {
+  "id": "801d6ffa-3848-489a-b2cb-778610e09418",
+  "make": "Chevrolet",
+  "model": "Metro",
+  "year": 1998,
+  "price": "$284045.94"
+}, {
+  "id": "1235b4df-1f61-4e44-8738-7ae60cb2cdcf",
+  "make": "GMC",
+  "model": "Rally Wagon 2500",
+  "year": 1993,
+  "price": "$261736.74"
+}, {
+  "id": "ac2ad6d0-8ab6-4032-ac6e-299d5a612872",
+  "make": "Dodge",
+  "model": "Viper",
+  "year": 1994,
+  "price": "$142678.14"
+}, {
+  "id": "f7c39130-7bd4-4b14-9376-9786e9a20126",
+  "make": "Cadillac",
+  "model": "STS",
+  "year": 2009,
+  "price": "$219366.72"
+}, {
+  "id": "5d71a2a9-3927-4735-8340-acb5f09733f4",
+  "make": "Cadillac",
+  "model": "Escalade EXT",
+  "year": 2003,
+  "price": "$110169.12"
+}, {
+  "id": "b5badfa9-5e5b-48d9-a4d8-cdc5125938cf",
+  "make": "GMC",
+  "model": "1500 Club Coupe",
+  "year": 1993,
+  "price": "$175036.75"
+}, {
+  "id": "654d686f-11c6-4653-98f3-1cfdaaf8a3de",
+  "make": "Audi",
+  "model": "S8",
+  "year": 2009,
+  "price": "$198129.53"
+}, {
+  "id": "810993f6-c3d6-48b0-8169-33d2576ca260",
+  "make": "Nissan",
+  "model": "350Z Roadster",
+  "year": 2006,
+  "price": "$104277.49"
+}, {
+  "id": "7a148712-3a36-4859-8861-39f6c3616b97",
+  "make": "Ford",
+  "model": "E-Series",
+  "year": 1996,
+  "price": "$32847.65"
+}, {
+  "id": "ae7ba30d-4dcd-4206-8dc0-04b51ded51f9",
+  "make": "Dodge",
+  "model": "Dakota Club",
+  "year": 1999,
+  "price": "$63477.87"
+}, {
+  "id": "f5815ab0-fc1c-4842-bf3c-0bec7005a204",
+  "make": "Subaru",
+  "model": "Brat",
+  "year": 1984,
+  "price": "$235740.21"
+}, {
+  "id": "050e6645-3740-45a0-8ec5-f391822aff28",
+  "make": "Ford",
+  "model": "Aerostar",
+  "year": 1995,
+  "price": "$13417.24"
+}, {
+  "id": "41e6f96f-508b-484e-9ea2-d966945f38c3",
+  "make": "Maybach",
+  "model": "Landaulet",
+  "year": 2011,
+  "price": "$187974.34"
+}, {
+  "id": "98f89d2d-5d02-41a4-bfd9-ee8eab79966b",
+  "make": "Porsche",
+  "model": "Boxster",
+  "year": 1997,
+  "price": "$106212.58"
+}, {
+  "id": "9ef8ad46-2bb0-45ca-858b-a59c7572e0ce",
+  "make": "Mazda",
+  "model": "B-Series Plus",
+  "year": 2002,
+  "price": "$22709.25"
+}, {
+  "id": "727f48d9-4e1c-4084-b0b6-3bc34f3b6360",
+  "make": "Subaru",
+  "model": "Impreza",
+  "year": 1996,
+  "price": "$216391.26"
+}, {
+  "id": "05c25995-a3d1-4230-9a1d-3af769947094",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "year": 1998,
+  "price": "$153113.62"
+}, {
+  "id": "d68fb730-3e58-4b09-822b-f42cd607ec22",
+  "make": "BMW",
+  "model": "1 Series",
+  "year": 2010,
+  "price": "$67158.41"
+}, {
+  "id": "0df71b85-c8c8-420b-b668-2a4a427b4d72",
+  "make": "Kia",
+  "model": "Sedona",
+  "year": 2005,
+  "price": "$52078.82"
+}, {
+  "id": "80fee453-1893-46b4-a2a7-e08461022a6a",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "year": 1985,
+  "price": "$210749.81"
+}, {
+  "id": "c06379e1-2dcf-407c-a2ba-10fb40e51702",
+  "make": "Bentley",
+  "model": "Arnage",
+  "year": 2008,
+  "price": "$209235.63"
+}, {
+  "id": "d1c922dc-2af3-41cc-9df2-43cac9b4e839",
+  "make": "Volvo",
+  "model": "C30",
+  "year": 2008,
+  "price": "$44510.05"
+}, {
+  "id": "626bce85-23e9-4620-81f6-a73d6a35d5ba",
+  "make": "Audi",
+  "model": "A6",
+  "year": 1997,
+  "price": "$289865.72"
+}, {
+  "id": "ab531f40-72f2-4d5f-8719-9f5333578479",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "year": 1999,
+  "price": "$61839.39"
+}, {
+  "id": "752c1ec3-c670-4e12-a332-149562096ca2",
+  "make": "Infiniti",
+  "model": "Q",
+  "year": 1992,
+  "price": "$63672.22"
+}, {
+  "id": "b1cd5de8-dfae-4490-971e-8bd3ce414e65",
+  "make": "Chevrolet",
+  "model": "SSR",
+  "year": 2003,
+  "price": "$217051.79"
+}]
